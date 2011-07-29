@@ -1,0 +1,1 @@
+This demonstrates how you can implement services that run in the foreground or background to get a position and send it to a server.
